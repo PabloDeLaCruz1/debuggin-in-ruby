@@ -1,0 +1,3 @@
+#Your first task is to start figuring out what each part of Kimmy’s program does. It seems as though she didn’t leave many comments while working on it. Try to use each class in the pry repl and put a few comments in the appropriate file about what it does or what information it holds. Eg: “Student: takes in a name and age as the constructor. Contains an instance of Reportcard.” 
+
+#Next try to fix the first problem the find_failing function (app.rb line 49). Kimmy commented out her code since she was afraid it would do further damage. Uncomment it and take a look at the first error it raises. Just a reminder that this function should display a report of which students passed or failed. A failing score is 200 or less in total for all four subjects.
